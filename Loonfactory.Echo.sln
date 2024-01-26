@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loonfactory.Echo.UdpServer"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loonfactory.Echo.UdpClient", "Loonfactory.Echo.UdpClient\Loonfactory.Echo.UdpClient.csproj", "{F7E62E48-6B4A-4276-A8C4-1C95CEA8D0D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loonfactory.Echo.TcpServer", "Loonfactory.Echo.TcpServer\Loonfactory.Echo.TcpServer.csproj", "{5AD2DA78-1C9B-4371-8CA4-85F8CB36F2FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loonfactory.Echo.TcpClient", "Loonfactory.Echo.TcpClient\Loonfactory.Echo.TcpClient.csproj", "{3C38E9D7-580D-419C-BEF3-758F51E7B94E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{F7E62E48-6B4A-4276-A8C4-1C95CEA8D0D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7E62E48-6B4A-4276-A8C4-1C95CEA8D0D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7E62E48-6B4A-4276-A8C4-1C95CEA8D0D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD2DA78-1C9B-4371-8CA4-85F8CB36F2FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD2DA78-1C9B-4371-8CA4-85F8CB36F2FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD2DA78-1C9B-4371-8CA4-85F8CB36F2FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD2DA78-1C9B-4371-8CA4-85F8CB36F2FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C38E9D7-580D-419C-BEF3-758F51E7B94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C38E9D7-580D-419C-BEF3-758F51E7B94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C38E9D7-580D-419C-BEF3-758F51E7B94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C38E9D7-580D-419C-BEF3-758F51E7B94E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
